@@ -1,9 +1,12 @@
 /*
-   Scott Campbell
+   Kyle Richardson 
 
    lab 910 client
 
-   write a message to RPC server
+   Clears all messages in the server
+
+   Adapted from Scott Campbell's code
+
  */
 
 import org.apache.xmlrpc.client.XmlRpcClient;

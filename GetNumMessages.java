@@ -1,9 +1,11 @@
 /*
-   Scott Campbell
+   Kyle Richardson 
 
    lab 910 client
 
-   Get messages from shared server
+   Get number messages from shared server
+
+   Adapted from Scott Campbell's code
  */
 
 import org.apache.xmlrpc.client.XmlRpcClient;

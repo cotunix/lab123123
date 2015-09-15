@@ -1,5 +1,5 @@
 /*
-Scott Campbell
+Kyle Richardson
 cse383
 
 Remote procedures exposed to the server

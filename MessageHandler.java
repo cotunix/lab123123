@@ -1,10 +1,11 @@
 /*
-Scott Campbell
+Kyle Richardson
 
 Message handler
 
 stores message in memmory
 
+Adapted from code by Scott Campbell
 */
 
 import java.util.ArrayList;
